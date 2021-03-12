@@ -1,0 +1,6 @@
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Venta CS\bin\Debug\Venta CS.exe.config
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Venta CS\obj\Debug\Venta CS.csprojResolveAssemblyReference.cache
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Venta CS\bin\Debug\Venta CS.exe
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Venta CS\bin\Debug\Venta CS.pdb
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Venta CS\obj\Debug\Venta CS.exe
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Venta CS\obj\Debug\Venta CS.pdb

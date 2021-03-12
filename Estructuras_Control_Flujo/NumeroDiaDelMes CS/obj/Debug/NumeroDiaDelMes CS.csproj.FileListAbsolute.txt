@@ -1,0 +1,6 @@
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\NumeroDiaDelMes CS\bin\Debug\NumeroDiaDelMes CS.exe.config
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\NumeroDiaDelMes CS\bin\Debug\NumeroDiaDelMes CS.exe
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\NumeroDiaDelMes CS\bin\Debug\NumeroDiaDelMes CS.pdb
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\NumeroDiaDelMes CS\obj\Debug\NumeroDiaDelMes CS.csprojResolveAssemblyReference.cache
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\NumeroDiaDelMes CS\obj\Debug\NumeroDiaDelMes CS.exe
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\NumeroDiaDelMes CS\obj\Debug\NumeroDiaDelMes CS.pdb

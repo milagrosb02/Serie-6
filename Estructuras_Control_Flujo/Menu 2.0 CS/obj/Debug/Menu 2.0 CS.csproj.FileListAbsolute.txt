@@ -1,0 +1,5 @@
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Menu 2.0 CS\bin\Debug\Menu 2.0 CS.exe.config
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Menu 2.0 CS\bin\Debug\Menu 2.0 CS.exe
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Menu 2.0 CS\bin\Debug\Menu 2.0 CS.pdb
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Menu 2.0 CS\obj\Debug\Menu 2.0 CS.exe
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Menu 2.0 CS\obj\Debug\Menu 2.0 CS.pdb

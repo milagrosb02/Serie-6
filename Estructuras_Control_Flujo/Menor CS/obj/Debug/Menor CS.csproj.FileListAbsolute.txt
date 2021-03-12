@@ -1,0 +1,6 @@
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Menor CS\bin\Debug\Menor CS.exe.config
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Menor CS\bin\Debug\Menor CS.exe
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Menor CS\bin\Debug\Menor CS.pdb
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Menor CS\obj\Debug\Menor CS.csprojResolveAssemblyReference.cache
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Menor CS\obj\Debug\Menor CS.exe
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Menor CS\obj\Debug\Menor CS.pdb

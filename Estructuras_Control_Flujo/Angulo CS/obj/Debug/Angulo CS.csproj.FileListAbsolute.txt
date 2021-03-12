@@ -1,0 +1,2 @@
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Angulo CS\bin\Debug\Angulo CS.exe.config
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Angulo CS\obj\Debug\Angulo CS.csprojResolveAssemblyReference.cache

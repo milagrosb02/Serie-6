@@ -1,0 +1,6 @@
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Deposito CS\bin\Debug\Deposito CS.exe.config
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Deposito CS\bin\Debug\Deposito CS.exe
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Deposito CS\bin\Debug\Deposito CS.pdb
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Deposito CS\obj\Debug\Deposito CS.csprojResolveAssemblyReference.cache
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Deposito CS\obj\Debug\Deposito CS.exe
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Deposito CS\obj\Debug\Deposito CS.pdb

@@ -1,0 +1,10 @@
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\NumeroDiaDelMes VB\bin\Debug\NumeroDiaDelMes VB.exe.config
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\NumeroDiaDelMes VB\bin\Debug\NumeroDiaDelMes VB.exe
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\NumeroDiaDelMes VB\bin\Debug\NumeroDiaDelMes VB.pdb
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\NumeroDiaDelMes VB\bin\Debug\NumeroDiaDelMes VB.xml
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\NumeroDiaDelMes VB\obj\Debug\NumeroDiaDelMes VB.vbprojResolveAssemblyReference.cache
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\NumeroDiaDelMes VB\obj\Debug\NumeroDiaDelMes_VB.Resources.resources
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\NumeroDiaDelMes VB\obj\Debug\NumeroDiaDelMes VB.vbproj.GenerateResource.Cache
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\NumeroDiaDelMes VB\obj\Debug\NumeroDiaDelMes VB.exe
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\NumeroDiaDelMes VB\obj\Debug\NumeroDiaDelMes VB.xml
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\NumeroDiaDelMes VB\obj\Debug\NumeroDiaDelMes VB.pdb

@@ -1,0 +1,10 @@
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Angulo VB\bin\Debug\Angulo VB.exe.config
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Angulo VB\bin\Debug\Angulo VB.exe
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Angulo VB\bin\Debug\Angulo VB.pdb
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Angulo VB\bin\Debug\Angulo VB.xml
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Angulo VB\obj\Debug\Angulo VB.vbprojResolveAssemblyReference.cache
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Angulo VB\obj\Debug\Angulo_VB.Resources.resources
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Angulo VB\obj\Debug\Angulo VB.vbproj.GenerateResource.Cache
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Angulo VB\obj\Debug\Angulo VB.exe
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Angulo VB\obj\Debug\Angulo VB.xml
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Angulo VB\obj\Debug\Angulo VB.pdb

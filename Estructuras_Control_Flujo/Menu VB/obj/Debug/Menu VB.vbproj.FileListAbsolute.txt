@@ -1,0 +1,10 @@
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Menu VB\bin\Debug\Menu VB.exe.config
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Menu VB\bin\Debug\Menu VB.exe
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Menu VB\bin\Debug\Menu VB.pdb
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Menu VB\bin\Debug\Menu VB.xml
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Menu VB\obj\Debug\Menu VB.vbprojResolveAssemblyReference.cache
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Menu VB\obj\Debug\Menu_VB.Resources.resources
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Menu VB\obj\Debug\Menu VB.vbproj.GenerateResource.Cache
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Menu VB\obj\Debug\Menu VB.exe
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Menu VB\obj\Debug\Menu VB.xml
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Menu VB\obj\Debug\Menu VB.pdb

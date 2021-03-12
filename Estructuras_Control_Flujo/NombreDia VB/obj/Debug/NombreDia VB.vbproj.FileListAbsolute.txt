@@ -1,0 +1,10 @@
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\NombreDia VB\bin\Debug\NombreDia VB.exe.config
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\NombreDia VB\bin\Debug\NombreDia VB.exe
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\NombreDia VB\bin\Debug\NombreDia VB.pdb
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\NombreDia VB\bin\Debug\NombreDia VB.xml
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\NombreDia VB\obj\Debug\NombreDia VB.vbprojResolveAssemblyReference.cache
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\NombreDia VB\obj\Debug\NombreDia_VB.Resources.resources
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\NombreDia VB\obj\Debug\NombreDia VB.vbproj.GenerateResource.Cache
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\NombreDia VB\obj\Debug\NombreDia VB.exe
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\NombreDia VB\obj\Debug\NombreDia VB.xml
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\NombreDia VB\obj\Debug\NombreDia VB.pdb

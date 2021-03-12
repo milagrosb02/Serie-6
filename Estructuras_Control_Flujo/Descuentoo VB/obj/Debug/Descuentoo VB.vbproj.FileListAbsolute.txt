@@ -1,0 +1,10 @@
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Descuentoo VB\bin\Debug\Descuentoo VB.exe.config
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Descuentoo VB\bin\Debug\Descuentoo VB.exe
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Descuentoo VB\bin\Debug\Descuentoo VB.pdb
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Descuentoo VB\bin\Debug\Descuentoo VB.xml
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Descuentoo VB\obj\Debug\Descuentoo VB.vbprojResolveAssemblyReference.cache
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Descuentoo VB\obj\Debug\Descuentoo_VB.Resources.resources
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Descuentoo VB\obj\Debug\Descuentoo VB.vbproj.GenerateResource.Cache
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Descuentoo VB\obj\Debug\Descuentoo VB.exe
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Descuentoo VB\obj\Debug\Descuentoo VB.xml
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Descuentoo VB\obj\Debug\Descuentoo VB.pdb

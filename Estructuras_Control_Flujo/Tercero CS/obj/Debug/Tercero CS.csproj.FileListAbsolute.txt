@@ -1,0 +1,6 @@
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Tercero CS\bin\Debug\Tercero CS.exe.config
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Tercero CS\bin\Debug\Tercero CS.exe
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Tercero CS\bin\Debug\Tercero CS.pdb
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Tercero CS\obj\Debug\Tercero CS.csprojResolveAssemblyReference.cache
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Tercero CS\obj\Debug\Tercero CS.exe
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Tercero CS\obj\Debug\Tercero CS.pdb

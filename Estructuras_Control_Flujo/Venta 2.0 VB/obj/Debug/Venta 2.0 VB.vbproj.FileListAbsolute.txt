@@ -1,0 +1,10 @@
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Venta 2.0 VB\bin\Debug\Venta 2.0 VB.exe.config
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Venta 2.0 VB\bin\Debug\Venta 2.0 VB.exe
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Venta 2.0 VB\bin\Debug\Venta 2.0 VB.pdb
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Venta 2.0 VB\bin\Debug\Venta 2.0 VB.xml
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Venta 2.0 VB\obj\Debug\Venta 2.0 VB.vbprojResolveAssemblyReference.cache
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Venta 2.0 VB\obj\Debug\Venta_2._0_VB.Resources.resources
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Venta 2.0 VB\obj\Debug\Venta 2.0 VB.vbproj.GenerateResource.Cache
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Venta 2.0 VB\obj\Debug\Venta 2.0 VB.exe
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Venta 2.0 VB\obj\Debug\Venta 2.0 VB.xml
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\Venta 2.0 VB\obj\Debug\Venta 2.0 VB.pdb

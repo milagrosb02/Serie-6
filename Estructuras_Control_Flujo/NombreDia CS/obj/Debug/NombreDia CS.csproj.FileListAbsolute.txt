@@ -1,0 +1,6 @@
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\NombreDia CS\bin\Debug\NombreDia CS.exe.config
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\NombreDia CS\bin\Debug\NombreDia CS.exe
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\NombreDia CS\bin\Debug\NombreDia CS.pdb
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\NombreDia CS\obj\Debug\NombreDia CS.csprojResolveAssemblyReference.cache
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\NombreDia CS\obj\Debug\NombreDia CS.exe
+M:\Operaciones Funciones Varias (Continuacion)\Estructuras_Control_Flujo\NombreDia CS\obj\Debug\NombreDia CS.pdb
